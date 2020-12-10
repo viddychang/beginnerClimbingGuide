@@ -1,5 +1,5 @@
 # beginnerClimbingGuide v1.0
-The objective of this project is to create an application that beginner climbers can use to search for climbing routes that fit their level and supply them with the information needed to be safe. This was submitted as a final class project for Northeastern CS5200.
+The objective of this project was to create database application from start to finish. The program built for this project is an application for beginner climbers to search for climbing routes that fit their level and supply them with the information needed to be safe. This was submitted as a final class project for Northeastern CS5200.
 
 The application starts with a welcome menu will include an option to CREATE a user login account, log in to an existing account or continue as a guest. The decision made by the user at this step will affect the user’s access to certain CRUD features.
 
