@@ -9,8 +9,8 @@ Users can then CREATE a new route to add to the database or search for a route b
 
 ### Installation and how to run ###
 1. Open command line interface (i.e. termainal).
-1. $ git clone https://github.com/viddychang/beginnerClimbingGuide.git
-1. cd /beginnerClimbingGuide
+1. `git clone https://github.com/viddychang/beginnerClimbingGuide.git`
+1. `cd /beginnerClimbingGuide`
 1. Make sure your machine has python 3.8.6 or later: https://www.python.org/downloads/
 1. `pip install PyMySQL`
 1. Connect to your local MySQL database (i.e. via MySQL workbench) and import the DDL/DML (`Dump20201210.sql`)
