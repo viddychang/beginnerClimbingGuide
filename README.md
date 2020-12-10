@@ -10,6 +10,6 @@ Users can then CREATE a new route to add to the database or search for a route b
 1. $ git clone https://github.com/viddychang/beginnerClimbingGuide.git
 1. cd /beginnerClimbingGuide
 1. Make sure your machine has python 3.8.6 or later: https://www.python.org/downloads/
-1. Connect to your local MySQL database (i.e. via MySQL workbench) and import the DDL/DML (Dump20201210.sql)
+1. Connect to your local MySQL database (i.e. via MySQL workbench) and import the DDL/DML (`Dump20201210.sql`)
 1. In `main.py` line 17, update the database connection credentials (*user*, *password*) to your local MySQL credentials
 1. To run, `python main.py`
